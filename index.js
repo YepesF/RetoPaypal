@@ -1,4 +1,4 @@
-import { products } from "./products";
+import { products } from "./controllers/products.js";
 
 const botones = document.querySelectorAll("#boton");
 
